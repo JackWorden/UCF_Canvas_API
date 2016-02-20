@@ -12,7 +12,7 @@ class UcfCanvasApi
 
     private
 
-    attr_reader :token, :request_header
+    attr_reader :token
 
     def url
       fail NotImplementedError
