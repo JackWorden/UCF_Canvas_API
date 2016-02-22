@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'ucf_canvas_api'
-  s.version = '0.0.1.1'
+  s.version = '0.0.1.2'
   s.licenses = ['MIT']
   s.summary = 'UCF Canvas (Webcourses) API wrapper'
   s.author = 'Jack Worden'

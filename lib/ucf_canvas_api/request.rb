@@ -7,7 +7,7 @@ class UcfCanvasApi
     end
 
     def perform
-      request = HTTParty.get(url, headers: header, query: query_params).parsed_response
+      request = HTTParty.get(url, headers: header, query: query_params)
       {
           status: request.headers['status'],
           response: request.parsed_response
