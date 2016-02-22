@@ -1,4 +1,4 @@
-# ucf_canvas_api
+# Ucf Canvas API
 Extremely unfinished CanvasAPI for requesting single-user TODO list and course lists
 
 
